@@ -1,0 +1,23 @@
+--- 
+name: Assassin's Mark
+colour: green
+min_level: 24
+version: 3.9
+keywords:
+  - Spell
+  - AoE
+  - Duration
+  - Curse
+radius: 22
+cast_time: 0.5
+cost: 16
+description: Curses all targets in an area, making them more vulnerable to Critical Strikes. Killing the cursed targets will grant life and mana, and a chance to gain a power charge.
+quality_bonus: Cursed enemies have a 0.5% chance to grant a Power Charge when slain
+effects:
+  - Base duration is 6 seconds
+  - Cursed enemies take 20% increased Extra Damage from Critical Strikes
+  - Hits against Cursed Enemies have +1.5% to Critical Strike Chance
+  - Cursed enemies grant 16 Life when Killed
+  - Cursed enemies grant 16 Mana when Killed
+  - Cursed enemies have a 21% chance to grant a Power Charge when slain
+

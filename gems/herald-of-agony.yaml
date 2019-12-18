@@ -1,0 +1,24 @@
+---
+name: Herald of Agony
+colour: green
+reserve: 25%
+min_level: 16
+version: 3.9
+keywords:
+  - Spell
+  - Herald
+  - Minion
+  - Chaos
+  - Physical
+cooldown_time: 1
+description: Grants a buff giving more poison damage and a chance to inflict poison. When you poison an enemy while you have this buff, you gain Virulence, and summon an Agony Crawler minion that uses projectile and area attacks. You will lose Virulence over time, at a rate which increases the more Virulence you have. The minion will die when you have no Virulence.
+quality_bonus: 1% increased Minion Movement Speed
+effects:
+  - Grants 20% chance to Poison on Hit
+  - Grants 10% more Poison Damage
+  - Agony Crawler deals 6% increased Physical Damage per Virulence you have
+  - Agony Crawler has 2% increased Attack Speed per Virulence you have
+  - Agony Crawler has 1 to 3 Added Physical Damage per Virulence you have
+  - Maximum 1 Summoned Agony Crawler
+  - Grants Virulence when you Poison an Enemy
+  - Minions cannot Taunt Enemies

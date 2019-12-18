@@ -1,0 +1,22 @@
+--- 
+name: Lightning Arrow
+colour: green
+min_level: 12
+version: 3.9
+keywords:
+  - Attack
+  - AoE
+  - Projectile
+  - Lightning
+  - Bow
+cast_time: 1
+cost: 7
+description: Fires a charged arrow at the target, causing them to be struck by a bolt of lightning which damages nearby enemies.
+quality_bonus: 1% chance to Shock enemies
+effects:
+  - Deals 110% of Base Attack Damage
+  - 50% of Physical Damage Converted to Lightning Damage
+  - Hits up to 3 additional enemies near the target
+  - 1 to 13 Added Lightning Damage
+  - 10% increased Effect of Shock
+  - Shocks Enemies as though dealing 100% more Damage

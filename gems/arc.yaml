@@ -1,0 +1,20 @@
+--- 
+name: Arc
+colour: blue
+min_level: 12
+version: 3.9
+keywords:
+  - Spell
+  - Chaining
+  - Lightning
+critical_chance: 5%
+cast_time: 0.7
+cost: 4
+description: An arc of lightning stretches from the caster to a targeted enemy and chains on to other nearby enemies. Each time the main beam chains it will also chain to a second enemy, but that secondary arc cannot chain further.
+quality_bonus: 0.5% chance to Shock enemies
+effects:
+  - Deals 6 to 33 Lightning Damage
+  - 10% chance to Shock enemies
+  - Chains +4 Times
+  - 10% increased Effect of Shock
+  - 15% more Damage for each remaining Chain

@@ -1,0 +1,22 @@
+---
+name: Herald of Ash
+colour: red
+reserve: 25%
+min_level: 16
+version: 3.9
+keywords:
+  - Spell
+  - AoE
+  - Fire
+  - Herald
+  - Duration
+cooldown_time: 1
+description: Channel lightning through your hands, adding lightning damage to spells and attacks. If you kill a shocked enemy, lightning bolts will strike enemies around you for a short duration. The lightning bolt damage inflicted by this skill is not affected by modifiers to spell damage.
+quality_bonus: 0.75% increased Lightning Damage
+effects:
+  - Adds 2 to 7 Lightning Damage to Spells
+  - Adds 2 to 7 Lightning Damage to Attacks
+  - Deals 1 to 34 Lightning Damage
+  - Base duration is 6 seconds
+  - Cannot inflict Shock
+  

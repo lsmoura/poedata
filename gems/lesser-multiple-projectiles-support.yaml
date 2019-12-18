@@ -1,0 +1,16 @@
+--- 
+name: Lesser Multiple Projectiles Support
+colour: green
+min_level: 8
+version: 3.9
+keywords:
+  - Support
+  - Projectile
+cost_multiplier: 140%
+description: Supports projectile skills.
+quality_bonus:
+  - Supported Skills have 0.5% increased Attack Speed
+  - Supported Skills have 0.5% increased Cast Speed
+effects:
+  - Supported Skills fire 2 additional Projectiles
+  - Supported Skills deal 15% less Projectile Damage

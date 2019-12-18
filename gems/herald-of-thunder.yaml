@@ -1,0 +1,21 @@
+---
+name: Herald of Thunder
+colour: red
+reserve: 25%
+min_level: 16
+version: 3.9
+keywords:
+  - Spell
+  - AoE
+  - Fire
+  - Herald
+  - Duration
+cooldown_time: 1
+description: Grants a buff providing fire damage based on your physical damage. While you have this buff, if you kill an enemy, other enemies near them will be burned based on the overkill damage. The burn inflicted by this skill can only be affected by modifiers to damage over time (burning damage is damage over time).
+quality_bonus: 0.75% increased Fire Damage
+effects:
+  - Gain 15% of your Physical Damage as Extra Fire Damage
+  - Base duration is 4 seconds
+  - Base Burning Damage is 25% of Overkill Damage
+  - 9 more Spell Fire Damage
+  

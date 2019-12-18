@@ -1,0 +1,18 @@
+--- 
+name: Spark
+colour: blue
+version: 3.9
+keywords:
+  - Spell
+  - Projectile
+  - Duration
+  - Lightning
+critical_chance: 6%
+cast_time: 0.65
+cost: 5
+description: Launches unpredictable sparks that move randomly until they hit an enemy or expire.
+quality_bonus: 1% increased Projectile Speed
+effects:
+  - Deals 1 to 20 Lightning Damage
+  - Base duration is 2 seconds
+  - Fires 4 additional Projectiles

@@ -1,0 +1,25 @@
+---
+name: Scourge Arrow
+colour: green
+min_level: 28
+version: 3.9
+keywords:
+  - Attack
+  - Projectile
+  - Channelling
+  - Chaos
+  - Bow
+attack_speed: 190%
+cast_time: 1
+cost: 4
+description: Channel to infuse an arrow with chaos, gaining stages while it is held. Release to fire it, leaving spore pods in its wake. Each spore pod blooms, firing thorn arrows, which travel for a short time before dissipating. Modifiers that cause additional projectiles to be fired will only apply to the initial arrows, and the spore pods will be split between those arrows.
+quality_bonus: 1% increased Projectile Speed
+effects:
+  - Deals 28% of Base Attack Damage
+  - 5 maximum Stages
+  - Each Spore Pod fires 9 Thorn Arrows
+  - 60% of Physical Damage Converted to Chaos Damage
+  - Thorn Arrows deal 50% less Damage
+  - 150% more Damage with Hits and Ailments per Stage
+  - 20 to 30 Added Chaos Damage
+  - Arrows Pierce all Targets

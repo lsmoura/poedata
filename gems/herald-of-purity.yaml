@@ -1,0 +1,24 @@
+---
+name: Herald of Purity
+colour: red
+reserve: 25%
+min_level: 16
+version: 3.9
+keywords:
+  - Spell
+  - Herald
+  - Minion
+  - Duration
+  - Physical
+cooldown_time: 1
+description: Grants a buff which adds physical damage to your spells and attacks. When you kill an enemy while you have this buff, this skill will summon a Sentinel of Purity, or refresh the duration and life of an existing one instead if you have the maximum number of them. The Sentinels of Purity have a single-target melee attack and an area melee attack.
+quality_bonus: 1% increased Minion Movement Speed
+effects:
+  - Base duration is 12 seconds
+  - Maximum 4 Summoned Sentinels of Purity
+  - 20% chance to Summon a Sentinel of Purity when you Hit a Rare or Unique Enemy
+  - Adds 3 to 5 Physical Damage to Spells
+  - Adds 3 to 5 Physical Damage to Attacks
+  - Summon a Sentinel of Purity when you Kill an Enemy
+  - Minions deal 0% more Physical Damage
+  - Minions have 0% more Life

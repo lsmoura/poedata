@@ -1,0 +1,17 @@
+--- 
+name: Zealotry
+colour: blue
+min_level: 24
+version: 3.9
+reserve: 50%
+keywords:
+  - Aura
+  - Spell
+  - AoE
+cooldown_time: 1.2
+description: Casts an aura that grants bonuses to damage and critical strike chance of spells to you and your allies, and gives a chance to create Consecrated Ground against stronger enemies.
+quality_bonus: 2% increased Area of Effect
+effects:
+  - You and nearby allies deal 10% more Spell Damage
+  - You and nearby allies have 20% increased Spell Critical Strike Chance
+  - You and nearby Non-Minion Allies have a 10% chance to create Consecrated Ground on Hitting a Rare or Unique Enemy, lasting 8 seconds

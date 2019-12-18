@@ -1,0 +1,22 @@
+--- 
+name: Orb of Storms
+colour: blue
+min_level: 4
+version: 3.9
+keywords:
+  - Lightning
+  - Spell
+  - Duration
+  - AoE
+  - Chaining
+radius: 22
+cast_time: 0.5
+cooldown_time: 0.5
+cost: 4
+description: Creates a stationary electrical orb that frequently unleashes a splitting bolt of lightning at a nearby enemy. Modifiers to cast speed will increase how frequently it does this. Using a lightning skill while inside the orb's cloud unleashes additional bolts. Casting this skill again will replace the previous orb.
+quality_bonus: 1% increased Lightning Damage
+effects:
+  - Deals 2 to 7 Lightning Damage
+  - Base duration is 6 seconds
+  - Beams Split towards 2 additional targets
+  - Strikes every 1.5 seconds

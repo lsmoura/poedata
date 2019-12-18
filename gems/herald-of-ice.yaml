@@ -1,0 +1,20 @@
+---
+name: Herald of Ice
+colour: green
+reserve: 25%
+min_level: 16
+version: 3.9
+keywords:
+  - Spell
+  - AoE
+  - Cold
+  - Herald
+cooldown_time: 1
+description: Channel ice through your hands, adding cold damage to spells and attacks. If you shatter an enemy, they explode and deal AoE cold damage to enemies near them. The AoE cold damage inflicted by this skill is not affected by modifiers to spell damage.
+quality_bonus: 0.75% increased Cold Damage
+effects:
+  - Adds 4 to 5 Cold Damage to Spells
+  - Adds 4 to 5 Cold Damage to Attacks
+  - Deals 18 to 26 Cold Damage
+  - Damage cannot be Reflected
+  
