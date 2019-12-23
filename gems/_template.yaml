@@ -10,6 +10,7 @@ critical_chance:
 cast_time:
 cooldown_time:
 cost:
+cost_multiplier:
 description:
 quality_bonus:
 effects:

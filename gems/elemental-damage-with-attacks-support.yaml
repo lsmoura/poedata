@@ -1,0 +1,13 @@
+--- 
+name: Elemental Damage with Attacks Support
+colour: red
+min_level: 18
+version: 3.9
+keywords:
+  - Attack
+  - Support
+cost_multiplier: 140%
+description: Supports attack skills
+quality_bonus: 0.5% increased Elemental Damage with Attack Skills
+effects:
+  - Supported Attack Skills deal 35% more Elemental Damage

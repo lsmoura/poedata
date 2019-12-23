@@ -1,0 +1,16 @@
+--- 
+name: Hypothermia Support
+colour: green
+min_level: 31
+version: 3.9
+keywords:
+  - Cold
+  - Support
+cost_multiplier: 120%
+description: Supports any skill that deals damage.
+quality_bonus: Supported Skills have 1.5% increased Chill Duration on Enemies
+effects:
+  - Supported Skills deal 20% more Damage with Hits and Ailments against Chilled Enemies
+  - Supported Skills have 10% chance to Freeze Enemies which are Chilled
+  - Supported Skills have 20% increased Effect of Chill on Enemies
+  - Supported Skills deal 20% more Cold Damage Over Time

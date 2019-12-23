@@ -1,0 +1,13 @@
+--- 
+name: Cold Penetration Support
+colour: green
+min_level: 31
+version: 3.9
+keywords:
+  - Cold
+  - Support
+cost_multiplier: 140%
+description: Supports any skill that hits enemies, making those hits penetrate enemy cold resistance.
+quality_bonus: Supported Skills deal 0.5% increased Cold Damage
+effects:
+  - Supported Skills Penetrate 18% Cold Resistance

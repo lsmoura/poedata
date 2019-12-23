@@ -1,0 +1,19 @@
+--- 
+name: Infused Channelling Support
+colour: blue
+min_level: 4
+version: 3.9
+keywords:
+  - Support
+  - Channelling
+  - Duration
+cost_multiplier: 140%
+description: Supports any channelling skill, protecting you from damage while you channel it. Cannot support Minions that channel skills.
+quality_bonus: Gain Infusion after Channelling a Supported Skill for -0.02 seconds
+effects:
+  - While Channelling a Supported Skill, take 8% less Damage from Hits of types matching the Skill Gem's Tags
+  - Supported Skills deal 20% more Damage
+  - Gain Infusion after Channelling a Supported Skill for 1.6 second
+  - Infusion lasts 6 seconds after you finish Channelling
+  - Infusion grants 10% more Damage of Types matching Supported Skill Gem's tags
+  - Totems cannot gain Infusion

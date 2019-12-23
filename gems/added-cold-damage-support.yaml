@@ -1,0 +1,18 @@
+--- 
+name: Added Cold Damage Support
+colour: green
+min_level: 8
+version: 3.9
+keywords:
+  - Cold
+  - Support
+reserve:
+critical_chance:
+cast_time:
+cooldown_time:
+cost:
+cost_multiplier: 130%
+description: Supports any skill that hits enemies.
+quality_bonus: Supported Skills deal 0.5% increased Cold Damage
+effects:
+  - Supported Skills have 4 to 6 added Cold Damage
